@@ -1,0 +1,10 @@
+!SESSION 2017-07-10 15:51:35.652 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-07-10 15:52:59.386
+!MESSAGE Indexed 'first' (1 sources, 0 headers) in 0.35 sec: 14 declarations; 26 references; 5 unresolved inclusions; 1 syntax errors; 50 unresolved names (56%)
